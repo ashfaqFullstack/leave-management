@@ -1,0 +1,43 @@
+# Node.js
+node_modules/
+/node_modules
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# React build files
+build/
+dist/
+
+# Dependency directories
+.vscode/
+.idea/
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Coverage directory used by tools like Jest
+coverage/
+
+# Operating System files
+Desktop.ini
+Thumbs.db
+
+# Temporary files
+*.swp
+*.swo
+
+# Misc
+*.bak
+*.tmp
